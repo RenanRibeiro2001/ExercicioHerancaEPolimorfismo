@@ -1,0 +1,15 @@
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\obj\Debug\net6.0\Curso8.csproj.AssemblyReference.cache
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\obj\Debug\net6.0\Curso8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\obj\Debug\net6.0\Curso8.AssemblyInfoInputs.cache
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\obj\Debug\net6.0\Curso8.AssemblyInfo.cs
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\obj\Debug\net6.0\Curso8.csproj.CoreCompileInputs.cache
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\bin\Debug\net6.0\Curso8.exe
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\bin\Debug\net6.0\Curso8.deps.json
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\bin\Debug\net6.0\Curso8.runtimeconfig.json
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\bin\Debug\net6.0\Curso8.dll
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\bin\Debug\net6.0\Curso8.pdb
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\obj\Debug\net6.0\Curso8.dll
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\obj\Debug\net6.0\refint\Curso8.dll
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\obj\Debug\net6.0\Curso8.pdb
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\obj\Debug\net6.0\Curso8.genruntimeconfig.cache
+C:\Users\renan.ferreira\source\repos\Curso8\Curso8\obj\Debug\net6.0\ref\Curso8.dll
